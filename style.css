@@ -136,8 +136,8 @@ footer {
   background: #222;
   color: #eee;
   font-size: 0.9rem;
-  margin-top: 0;
   user-select: none;
+  margin-top: auto; /* <-- ADD THIS LINE */
 }
 
 /* Dark mode */
